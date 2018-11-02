@@ -1,0 +1,10 @@
+length: 34 mm
+width: 17.3 mm
+height: 7 mm
+
+template board:
+---------------
+10 mm margin left & right, 5 mm gap, 10 stick per row, 10 rows
+size: 405 mm x 238 mm
+
+

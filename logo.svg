@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 402 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-26.7887,5.40449)">
+        <text x="73.8px" y="39.538px" style="font-family:'HelveticaNeue-Medium', 'Helvetica Neue', sans-serif;font-weight:500;font-size:29.167px;">This device runs GNUK</text>
+    </g>
+    <g transform="matrix(1.00747,0,0,1.00747,-57.6462,40.6956)">
+        <text x="97.951px" y="112.528px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:79.167px;">Modirum</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-47.808,9.88188)">
+        <text x="205.784px" y="170.827px" style="font-family:'HelveticaNeue-Medium', 'Helvetica Neue', sans-serif;font-weight:500;font-size:22.917px;">Secur<tspan x="266.925px 279.667px " y="170.827px 170.827px ">ed</tspan> by Fr<tspan x="353.55px 366.292px " y="170.827px 170.827px ">ee</tspan>BSD</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-20.5478,8.81287)">
+        <text x="65.463px" y="59.4px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:20.833px;">Fr<tspan x="83.984px 95.171px " y="59.4px 59.4px ">ee</tspan> Softwar<tspan x="183.879px 195.067px " y="59.4px 59.4px ">e </tspan>Initiative of Japan</text>
+    </g>
+    <g transform="matrix(0.868762,0,0,0.878049,-0.520643,-0.379178)">
+        <ellipse cx="0.63" cy="0.441" rx="0.03" ry="0.009" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.24px;"/>
+    </g>
+    <g transform="matrix(-0.165244,0,0,-0.165244,467.961,238.079)">
+        <ellipse cx="401.17" cy="203.938" rx="0.306" ry="0.295" style="fill:none;stroke:black;stroke-width:1.26px;"/>
+    </g>
+</svg>
